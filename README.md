@@ -1,2 +1,2 @@
-# project_vehicle_insurance_Angular
-Frontend project code
+# Vehicle_Insurance_Angular
+Front End part of Project gladiator based on General Vehicle Insurance functionality
